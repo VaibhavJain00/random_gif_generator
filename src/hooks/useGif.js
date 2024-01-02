@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react'
 
-const API_KEY=process.env.REACT_APP_GIPHY_API_KEY;
+const API_KEY='xSSiSXbxKVoultz7D0TdnPC0clV4HNEi';
 const url= `https://api.giphy.com/v1/gifs/random?api_key=${API_KEY}`
 
 
